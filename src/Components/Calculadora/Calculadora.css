@@ -1,0 +1,24 @@
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3em;
+}
+.Calculadora{
+    background-color: black;
+    width: 550px;
+    height:auto;
+    border-radius: 0.5em;
+    border: 10px black solid;
+}
+
+.Resultado{
+    height: 2em;
+    width: 100%;
+    background-color:white;
+    font-size: 2em;
+    text-align: end;
+    margin-right: 4em;
+
+}
+
